@@ -25,7 +25,7 @@ SECRET_KEY = '4z0&gyz234wxa#1fg+fcoph4tj@h)e+avr%&(@^c81h5loos-%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['netmago.pythonanywhere.com']
 
 
 # Application definition
